@@ -1,5 +1,5 @@
 // Debbie Hair Empire — cart (demo: stored in this browser only via localStorage)
-const WHATSAPP_NUMBER = "2348100000000"; // demo number
+const WHATSAPP_NUMBER = "2349132985897"; // demo number
 
 const Cart = {
   key: "dhe_cart",
